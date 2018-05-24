@@ -1,0 +1,1 @@
+java -cp "socket_server_20180524.jar;..\libs/*;..\libs\netty/*;..\..\SocketCommon\output/*" vn.iadd.vertx.server.test.MainServerTest
